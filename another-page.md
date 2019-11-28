@@ -8,4 +8,6 @@ description: This is just another page
 
 _yay_
 
+这是另外一篇
+
 [back](./)
