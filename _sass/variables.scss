@@ -8,16 +8,16 @@ $header-bg-color: #bbe3eb !default; //首页顶部背景颜色
 $header-bg-color-secondary: #e3f3f7 !default;
 
 // Text
-$section-headings-color: #159957 !default;
+$section-headings-color: #1e6bb8 !default;
 $body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
-$blockquote-text-color: #819198 !default;
+$body-link-color: #1e6bb8 !default; //超链接颜色
+$blockquote-text-color: #819198 !default; //引用文字颜色
 
 // Code
-$code-bg-color: #f3f6fa !default;
+$code-bg-color: #f3f6fa !default; //代码背景色
 $code-text-color: #567482 !default;
 
 // Borders
-$border-color: #dce6f0 !default;
+$border-color: #dce6f0 !default; //表格颜色
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
