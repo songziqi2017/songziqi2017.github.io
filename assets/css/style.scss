@@ -6,8 +6,9 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "汉仪书宋一简", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; //字体
-  font-size: 36px; //好像只对顶部有用
+  font-family: "汉仪全唐诗简", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; //字体
+  font-size: 16px; //只对顶部有用
+  font-weight: bold;
   line-height: 1.5;
   color: $body-text-color;
 }
