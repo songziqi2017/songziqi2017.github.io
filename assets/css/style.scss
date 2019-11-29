@@ -7,16 +7,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: "汉仪全唐诗简", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; //字体
-  font-size: 2em; //默认16px
-  font-weight: 600;
+  font-size: 1em; //默认16px
+  font-weight: 500;
   line-height: 1.5;
-  color: red;
   color: $body-text-color;
-}
-
-h1 {
-  color: #00ff00;
-}
-p {
-  background-color: gray;
 }
