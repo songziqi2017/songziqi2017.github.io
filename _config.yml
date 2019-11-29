@@ -3,3 +3,7 @@ description: This is a clean, responsive merch land.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+github:
+  zip_url: http://www.baidu.com
+  another_url: www.bing.com
