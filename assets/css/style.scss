@@ -12,3 +12,10 @@ body {
   line-height: 1.5;
   color: $body-text-color;
 }
+
+h2 {
+   padding-bottom: .3em;
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
