@@ -4,11 +4,7 @@ layout: default
 
 <center>目录</center>
 
-[标准格式](./posts/标准格式.md)
-
-<div align="center">
-[标准格式](./posts/标准格式.md)
-</div>
+				[标准格式](./posts/标准格式.md)
 
 ## 工学
 
