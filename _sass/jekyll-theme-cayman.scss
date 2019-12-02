@@ -29,7 +29,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: "汉仪全唐诗简", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; //字体
-  font-size: 1.125rem !important; //18px
+  font-size: 1.25rem !important; //18px
   line-height: 1.5;
   color: $body-text-color;
   background-color: #fcfdf8;
@@ -171,17 +171,17 @@ a {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1.1rem; //1.1rem
+    font-size: 1.25rem; //1.1rem
   }
 
   @include medium {
     padding: 2rem 4rem;
-    font-size: 3rem; //1.125 1.2 1.25正文文本字体
+    font-size: 1.25rem; //1.125 1.2 1.25正文文本字体
   }
 
   @include small {
     padding: 2rem 1rem;
-    font-size: 1rem; //1rem
+    font-size: 1.25rem; //1rem
   }
 
   kbd {
