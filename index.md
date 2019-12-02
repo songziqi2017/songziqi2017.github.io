@@ -6,6 +6,10 @@ layout: default
 
 [标准格式](./posts/标准格式.md)
 
+<div align="center">
+[标准格式](./posts/标准格式.md)
+</div>
+
 ## 工学
 
 [工学](./posts/工学/工学.md)
