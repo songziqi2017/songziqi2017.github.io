@@ -209,7 +209,7 @@ a {
   h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-weight: normal;
+    font-weight: normal; //标题大小
     color: $section-headings-color;
   }
 
@@ -219,7 +219,7 @@ a {
 
   code {
     padding: 2px 4px;
-    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; //代码字体
     font-size: 0.9rem;
     color: $code-text-color;
     background-color: $code-bg-color;
