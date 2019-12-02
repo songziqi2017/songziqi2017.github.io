@@ -3,7 +3,7 @@ layout: default
 ---
 
 <center>目录</center>
-<center>[标准格式](./posts/标准格式.md)</center>
+<center> [标准格式](./posts/标准格式.md) </center>
 
 ## 工学
 
