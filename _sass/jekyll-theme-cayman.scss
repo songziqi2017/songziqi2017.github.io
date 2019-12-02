@@ -184,7 +184,7 @@ a {
   }
   
   kbd {
-    background-color: #fafbfc;
+    background-color: #fafbfc; //定义键盘文本
     border: 1px solid #c6cbd1;
     border-bottom-color: #959da5;
     border-radius: 3px;
@@ -198,7 +198,7 @@ a {
   }
 
   img {
-    max-width: 100%;
+    max-width: 50%; //定义图片宽度，默认100%
   }
 
   h1,
@@ -209,7 +209,7 @@ a {
   h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-weight: normal; //标题大小
+    font-weight: normal; //标题粗细
     color: $section-headings-color;
   }
 
@@ -230,7 +230,7 @@ a {
     padding: 0.8rem;
     margin-top: 0;
     margin-bottom: 1rem;
-    font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace; //预定义文本
     color: $code-text-color;
     word-wrap: normal;
     background-color: $code-bg-color;
