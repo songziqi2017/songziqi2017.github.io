@@ -7,7 +7,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: "汉仪全唐诗简", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; //字体
-  font-size: 1.125em; //默认16px
+  font-size: 1.125em !important; //默认16px
   font-weight: 500;
   line-height: 1.5;
   color: $body-text-color;

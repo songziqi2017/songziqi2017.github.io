@@ -6,8 +6,6 @@ layout: default
 
 [标准格式](./posts/标准格式.md)
 
-	[标准格式](./posts/标准格式.md)
-
 ## 工学
 
 [工学](./posts/工学/工学.md)

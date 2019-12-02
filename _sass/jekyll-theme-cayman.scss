@@ -29,7 +29,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: "汉仪全唐诗简", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; //字体
-  font-size: 1.125em; //18px
+  font-size: 1.125em !important; //18px
   line-height: 1.5;
   color: $body-text-color;
   background-color: #fcfdf8;
