@@ -11,7 +11,7 @@ layout: default
 
 ## 春秋
 
-- [春秋](./posts/春秋/论语.md)
+- [春秋](./posts/春秋/论语/论语.md)
 	- 二级目录
 
 
