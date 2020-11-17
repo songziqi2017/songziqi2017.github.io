@@ -1,3 +1,8 @@
+---
+layout: default
+title: NoteBook
+description: 这是标准格式说明。
+---
 
 WPS
 Choice
