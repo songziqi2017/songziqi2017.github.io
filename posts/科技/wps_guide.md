@@ -4,15 +4,20 @@ title: NoteBook
 description: 这是标准格式说明。
 ---
 
-WPS
-Choice
+WPS Choice
+
 wps.com
+
 Storage
+
 Global：drive.wps.com
 CN：drive.wps.cn
+
 Help
 Search the new help in bing
+
 Shortcuts
+
 Shortcuts	Original	Modified	Note
 F1	Help		
 F2		Heading 2	
@@ -74,6 +79,7 @@ Set paragraph break like bottom borders
 截图有画刷荧光笔工具，或者，插入-形状-自由曲线-双击-设为新图形默认值，只在本文档有效
 同步问题
 wps国内版和国际版账号不同步，windows版和linux版账号不能同步
+
 插入公式
 1. 设置打开公式编辑器的快捷键。文件-选项-自定义功能区-键盘快捷方式-自定义为ctrl+F
 2. 再次按ctrl+F进入输入分数状态
